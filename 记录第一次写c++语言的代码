@@ -1,0 +1,5 @@
+#include <stdio.h>//和大脑打个招呼，老子要做个美梦   std--标准--全称standard（标准的意思）input--outputint
+intmain()  //主函数，梦函数，梦开始的地方，只能有一个
+{
+printf("hello world\n");  //打印功能
+return 0;       //返回 0 ，请你回忆梦到的东西}
